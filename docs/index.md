@@ -38,6 +38,13 @@
 |              :material-wifi: **Redes**<br>Principal<br>Convidado<br>IoT               |             2<br>**✔**<br>**✔**<br>**✘**             |              2<br>**✔**<br>**✔**<br>**✘**              |                  2<br>**✔**<br>**✔**<br>**✘**                  |             3<br>**✔**<br>**✔**<br>**✔**             |              3<br>**✔**<br>**✔**<br>**✔**              |                 3<br>**✔**<br>**✔**<br>**✔**                  |
 |                   :material-cable-data: **Backhaul Ethernet**                   |                         **✔**                          |                          **✔**                           |                              **✔**                               |                         **✔**                          |                          **✔**                           |                              **✔**                              |
 
+## Provedores
+
+| Provedor  |          500MB           |          600MB           |          900MB           |
+| :-------- | :----------------------: | :----------------------: | :----------------------: |
+| **Core3** |            -             | R$ 110<br>^0,18^ ^R$/MB^ |            -             |
+| **GNET**  | R$ 130<br>^0,26^ ^R$/MB^ |            -             | R$ 200<br>^0,23^ ^R$/MB^ |
+
 ## Referências
 
 ### Wi-Fi
